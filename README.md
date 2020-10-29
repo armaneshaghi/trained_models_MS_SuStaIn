@@ -1,6 +1,6 @@
 # Trained Multiple Sclerosis SuStaIn models
 
-Trained models for the MS SuStaIn paper 
+This repository includes the trained model mentioned in the Eshaghi et al 2020 paper (see below for the link). The model has been saved with Python 3's `Pickle` package and can easily be loaded using the same package as a Python dictionary. 
 
 Please check the [pySuStaIn software](https://github.com/ucl-pond/pySuStaIn) and the simulation runs to use this `Pickle` file. The `.pkl` or `Pickle` file has all the information that a trained model has in the simulation run shown in the same repository. The best way to implement it is to load the pickle file and explore the variables inside it. The name of these variables will help you to match where in the simulation runs this `Pickle` file can be used.  
 
