@@ -21,3 +21,4 @@ Order of appearance of variables, and their Z-scores, in the sequence array in t
 - t1t2ratio_Temporal_White_Matter
 - t1t2ratio_Corpus_Callosum
 - T2-Flair Lesion load
+![Three subtype model](https://github.com/armaneshaghi/trained_models_MS_SuStaIn/blob/main/_3subtypes.png)
