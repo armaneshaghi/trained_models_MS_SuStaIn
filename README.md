@@ -21,4 +21,7 @@ Order of appearance of variables, and their Z-scores, in the sequence array in t
 - t1t2ratio_Temporal_White_Matter
 - t1t2ratio_Corpus_Callosum
 - T2-Flair Lesion load
+
+In this Pickle file, subtype 1 corresponds to cortex-led, subtype 2 corresponds to the normal-appearing white matter (NAWM)-led, and the subtype 3 corresponds to the lesion-led group. 
+
 ![Three subtype model](https://github.com/armaneshaghi/trained_models_MS_SuStaIn/blob/main/_3subtypes.png)
